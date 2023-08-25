@@ -10,6 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Gradle
+.gradle/
+
+# Android Studio Settings
+.idea/
+
 # Package Files #
 *.jar
 *.war
